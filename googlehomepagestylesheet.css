@@ -1,0 +1,50 @@
+.header {
+  text-align:right;
+  list-style-type:none;
+  margin:0;
+  padding:0;
+
+}
+li{
+  padding: 8px;
+  display: inline;
+  width: 60px;
+
+}
+img{
+  padding-top:200px;
+}
+div {
+
+  text-align: center;
+
+}
+.searchbox{
+  align-items: center;
+  height:40px;
+  padding-top:10px
+
+
+}
+.buttons{
+  align-items: center;
+  height:20px;
+  padding-top:10px;
+}
+
+input  {
+  width:200px;
+  height:44px;
+}
+
+.leftfooter{
+  text-align:left;
+  clear:none;
+float:left;
+}
+
+.rightfooter{
+  text-align:right;
+  clear:none;
+  float:right;
+}
