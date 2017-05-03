@@ -37,14 +37,20 @@ input  {
   height:44px;
 }
 
+.footer {
+  clear:none;
+  background-color:gray;
+}
 .leftfooter{
   text-align:left;
   clear:none;
 float:left;
+  color:white;
 }
 
 .rightfooter{
   text-align:right;
   clear:none;
   float:right;
+  color:white;
 }
