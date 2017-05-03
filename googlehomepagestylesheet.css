@@ -19,9 +19,13 @@ div {
   text-align: center;
 
 }
+
+}
 .searchbox{
-  align-items: center;
+  display:block
+    text-align:center
   height:40px;
+  width:400px
     padding-top:10px;
  
 }
