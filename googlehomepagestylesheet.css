@@ -22,7 +22,10 @@ div {
 .searchbox{
   align-items: center;
   height:40px;
-  padding-top:10px
+  width:2em;
+  padding-top:10px;
+  size: 20px;
+  
 
 
 }
@@ -41,10 +44,12 @@ input  {
   text-align:left;
   clear:none;
 float:left;
+  background-color:grey;
 }
 
 .rightfooter{
   text-align:right;
   clear:none;
   float:right;
+   background-color:grey;
 }
