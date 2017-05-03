@@ -19,15 +19,12 @@ div {
   text-align: center;
 
 }
-
-}
 .searchbox{
-  display:block
-    text-align:center
+  align-items: center;
   height:40px;
-  width:400px
-    padding-top:10px;
- 
+  padding-top:10px
+
+
 }
 .buttons{
   align-items: center;
@@ -35,20 +32,19 @@ div {
   padding-top:10px;
 }
 
-.footer{
-  color:grey;
+input  {
+  width:200px;
+  height:44px;
 }
 
 .leftfooter{
   text-align:left;
   clear:none;
 float:left;
-  background-color:grey;
 }
 
 .rightfooter{
   text-align:right;
   clear:none;
   float:right;
-   background-color:grey;
 }
